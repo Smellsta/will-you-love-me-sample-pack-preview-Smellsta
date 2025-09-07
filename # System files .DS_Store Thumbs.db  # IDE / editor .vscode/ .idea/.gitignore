@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Raw audio files (if you don’t want to push them)
+*.wav
+*.aiff
+
+# Temporary project files
+*.tmp
+*.bak
